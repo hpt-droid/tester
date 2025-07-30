@@ -1,0 +1,13 @@
+# AWS credentials
+AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
+AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+# GitHub token
+GITHUB_TOKEN=ghp_1234567890abcdefghijklmnopqrstuvwx
+# Slack Webhook
+SLACK_WEBHOOK=https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX
+# Google API Key
+GOOGLE_API_KEY=AIzaSyD4EXAMPLEKEY1234567890abcdef
+# Twilio Auth Token
+TWILIO_AUTH_TOKEN=5d3b2cf10b7bfc4a1a3f6c3a7c4a5e72
+# Password (generic)
+password=superSecret123
